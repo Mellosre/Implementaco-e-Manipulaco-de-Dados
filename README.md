@@ -1,6 +1,6 @@
 # Sistema de Gestão de Clínica Veterinária - Pet Amigão 🐾
 
-Este repositório contém os scripts SQL desenvolvidos para a criação e manipulação do banco de dados do projeto **Pet Amigão**, uma clínica veterinária fictícia. O projeto foi desenvolvido como parte da disciplina de Modelagem de Banco de Dados (ADS - 2º Semestre).
+Este repositório contém os scripts SQL desenvolvidos para a criação e manipulação do banco de dados do projeto **Pet Amigão**, uma clínica veterinária fictícia. O projeto foi desenvolvido como parte da disciplina de Modelagem de Banco de Dados (ADS - 1º Semestre).
 
 ## 🎯 Objetivos
 - Implementar o modelo lógico em um SGBD Relacional (MySQL).
